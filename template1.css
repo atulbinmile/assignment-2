@@ -1,0 +1,48 @@
+
+.box{
+    box-sizing: border-box;
+    height: max-content;
+    margin: 30px 500px 30px 500px;
+    border: 1px solid black;
+    padding: 0 0 100px 0;
+    text-align: left;
+}
+
+li{
+    font-size: x-large;
+}
+
+.text1{
+    padding: 10px 0 10px 0;
+}
+
+input,label,select{
+    padding: 0 20px 5px 0;
+    margin: 10px 10px;
+}
+
+button{
+    color: white;
+    background-color: rgb(12, 160, 123);
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 372px;
+    height: 45px;
+}
+
+.text2{
+    margin: 20px 0 20px 0;
+}
+
+.text3{
+    margin-top: 10px;
+}
+
+input,select{
+    width: 350px;
+    height: 40px;
+}
+
+#about{
+    height: 80px;
+}
